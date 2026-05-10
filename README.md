@@ -36,4 +36,4 @@ Our designs (patterns, scripts, graphics, ideas, docs) will be available to any 
 
 Juhan Sonin  
 juhan@goinvo.com  
-10.May.2026  
+v06, 10.May.2026  
