@@ -5,8 +5,6 @@ Concentrate on your special sauce.
 5% is the special sauce.  
 Don’t reinvent the 95%. Concentrate on the 5%.
 
-Build community without destroying individualism.
-
 The user’s experience and interaction with a product is a significant portion of the 5% special sauce.
 For the core design (the 95% infrastructure), leverage the global creative community for common design elements and solutions. Leverage the millions of eyes in both the customer community and the design team to identify the best solution. 
 
